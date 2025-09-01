@@ -1,7 +1,7 @@
-🛒 E-commerce Platform
+#🛒 E-commerce Platform
 This is a full-stack e-commerce application designed for modern online shopping experiences, utilizing cutting-edge technologies. The platform supports seamless user interaction, product management, secure payments, and analytics.
 
-🚀 Tech Stack
+#🚀 Tech Stack
 ⚛️ Frontend: React.js
 🌐 Backend: Node.js (Express)
 🍃 Database: MongoDB
@@ -9,7 +9,7 @@ This is a full-stack e-commerce application designed for modern online shopping 
 💳 Payment Gateway: Stripe
 🏎️ In-memory Cache: Redis
 📊 Data Visualization: Recharts
-✨ Key Features
+#✨ Key Features
 🔑 User Authentication: Sign up, login, password management
 🛍️ Product Management: Add, edit, remove products
 💰 Payment Processing: Integrated with Stripe for secure transactions
