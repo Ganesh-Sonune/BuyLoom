@@ -115,6 +115,8 @@ npm start
 Once started, open your browser and navigate to:
 👉 http://localhost:3000
 
+---
+
 ## 📄 License
 
 This project is licensed under the MIT License.
