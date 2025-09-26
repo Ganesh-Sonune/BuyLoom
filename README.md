@@ -27,8 +27,6 @@ Redis 🏎️
 Steps to Set Up
 Clone the repository :
 
-git clone https://github.com/Hariom-Ingle/e-commerce-store
-cd ecommerce-project
 Install server dependencies :
 
 cd server
