@@ -1,7 +1,7 @@
-#🛒 E-commerce Platform
+#🛒 E-commerce Platform #
 This is a full-stack e-commerce application designed for modern online shopping experiences, utilizing cutting-edge technologies. The platform supports seamless user interaction, product management, secure payments, and analytics.
 
-#🚀 Tech Stack
+#🚀 Tech Stack #
 ⚛️ Frontend: React.js
 🌐 Backend: Node.js (Express)
 🍃 Database: MongoDB
