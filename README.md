@@ -31,42 +31,6 @@ This platform provides **seamless user interaction**, **secure payments**, **pro
 
 ---
 
-## 🧭 Project Structure
-
-e-commerce-platform/
-│
-├── client/                         # 🎨 Frontend (React.js)
-│   ├── public/                     # Static assets (favicon, index.html)
-│   ├── src/                        # Main source code
-│   │   ├── assets/                 # Images, icons, etc.
-│   │   ├── components/             # Reusable UI components
-│   │   ├── pages/                  # Application pages (Home, Product, Cart)
-│   │   ├── context/                # React Context API (Auth, Cart, Theme)
-│   │   ├── hooks/                  # Custom React hooks
-│   │   ├── services/               # API service calls (Axios/Fetch)
-│   │   ├── utils/                  # Helper functions
-│   │   ├── App.js                  # Root component
-│   │   └── index.js                # Entry point
-│   └── package.json
-│
-├── server/                         # ⚙️ Backend (Node.js + Express)
-│   ├── config/                     # Configuration files (DB, Cloudinary, Redis)
-│   ├── controllers/                # Business logic (Product, Order, User)
-│   ├── middleware/                 # Custom middleware (Auth, Error handling)
-│   ├── models/                     # Mongoose models (Product, User, Order)
-│   ├── routes/                     # Express routes (API endpoints)
-│   ├── utils/                      # Helper functions and utilities
-│   ├── validations/                # Input validation schemas (Joi, Validator)
-│   ├── .env.example                # Example environment file
-│   ├── server.js                   # Main server entry file
-│   └── package.json
-│
-├── .gitignore                      # Git ignored files
-├── README.md                       # Project documentation
-└── package.json                    # Root package.json (optional scripts)
-
-
----
 
 ## 🛠️ Installation Guide
 
